@@ -1,6 +1,6 @@
 Final year computer science project at the University of Exeter on inference on physical therapy exercises using inertial sensors.
 
-##Abstract
+## Abstract
 The utilization of physical therapy exercises constitutes a potent modality for rehabilitating the mobility and functional capacity of individuals suffering from a diverse array of impairments stemming
 from disability, illness, or injury. However, their success is contingent upon the patient’s ability to adhere to the prescribed guidelines of the physical therapy routines. Inertial Measurement Units (IMUs)
 are a device that employs accelerometers, gyroscopes, and magnetometers to accurately measure and
